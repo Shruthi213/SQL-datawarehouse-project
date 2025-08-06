@@ -50,12 +50,6 @@ BI: Analytics & Reporting (Data Analysis)
 Objective
 Develop SQL-based analytics to deliver detailed insights into:
 
-Customer Behavior
-Product Performance
-Sales Trends
-These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+Here is the Dataflow Diagram:
+<img width="847" height="578" alt="image" src="https://github.com/user-attachments/assets/b3691f6e-6710-43a8-a4f8-e67071fe913a" />
 
-├── README.md                           # Project overview and instructions
-├── LICENSE                             # License information for the repository
-├── .gitignore                          # Files and directories to be ignored by Git
-└── requirements.txt                    # Dependencies and requirements for the project
